@@ -30,11 +30,8 @@ class KodeBuah
         static void Main(string[] args, KodeBuah kodeBuah)
         {
 
-
             KodeBuah.NamaBuah inputNamaBuah = KodeBuah.NamaBuah.Durian;
             Console.WriteLine("Buah dengan Nama:" + inputNamaBuah + "dengan kode nya ialah:" + kodeBuah.GetKodeBuah(inputNamaBuah));
-
-
 
         }
     }
