@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\modul3_1302190047\modul3_1302190047\obj\Debug\net6.0\modul3_1302190047.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\modul3_1302190047\modul3_1302190047\obj\Debug\net6.0\modul3_1302190047.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\modul3_1302190047\modul3_1302190047\obj\Debug\net6.0\modul3_1302190047.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\modul3_1302190047\modul3_1302190047\obj\Debug\net6.0\modul3_1302190047.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\modul3_1302190047\modul3_1302190047\obj\Debug\net6.0\modul3_1302190047.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\modul3_1302190047\modul3_1302190047\bin\Debug\net6.0\modul3_1302190047.exe
+C:\Users\ASUS\source\repos\modul3_1302190047\modul3_1302190047\bin\Debug\net6.0\modul3_1302190047.deps.json
+C:\Users\ASUS\source\repos\modul3_1302190047\modul3_1302190047\bin\Debug\net6.0\modul3_1302190047.runtimeconfig.json
+C:\Users\ASUS\source\repos\modul3_1302190047\modul3_1302190047\bin\Debug\net6.0\modul3_1302190047.dll
+C:\Users\ASUS\source\repos\modul3_1302190047\modul3_1302190047\bin\Debug\net6.0\modul3_1302190047.pdb
+C:\Users\ASUS\source\repos\modul3_1302190047\modul3_1302190047\obj\Debug\net6.0\modul3_1302190047.dll
+C:\Users\ASUS\source\repos\modul3_1302190047\modul3_1302190047\obj\Debug\net6.0\refint\modul3_1302190047.dll
+C:\Users\ASUS\source\repos\modul3_1302190047\modul3_1302190047\obj\Debug\net6.0\modul3_1302190047.pdb
+C:\Users\ASUS\source\repos\modul3_1302190047\modul3_1302190047\obj\Debug\net6.0\modul3_1302190047.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\modul3_1302190047\modul3_1302190047\obj\Debug\net6.0\ref\modul3_1302190047.dll
